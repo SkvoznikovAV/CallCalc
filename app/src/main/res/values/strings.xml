@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CallCalc</string>
+    <string name="btn_start_calc">Запустить калькулятор</string>
+    <string name="msg_err">активити не существует</string>
+    <string name="calc_name">com.example.action.calculator</string>
+</resources>
